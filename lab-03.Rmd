@@ -46,7 +46,8 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+The image is unclear, and unreadable - in the overlap of the colours and the use of unusual acronyms.
+There are no clear measurements on the axis - what does "Rule of Law" mean
 
 
 
