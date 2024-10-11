@@ -78,6 +78,7 @@ Wide format data is when each respondent is given their own row and column, in l
 
 Is the format `staff` data *wide* or *long*?
 
+Wide as hell fr
 
 How many observations are there in the data set?
 
