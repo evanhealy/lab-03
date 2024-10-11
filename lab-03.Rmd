@@ -24,8 +24,8 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-
-
+Image 1 data is not correctly scaled. 
+It says 1,026 billion instead of 1.026 billion
 
 
 ## Image 2
