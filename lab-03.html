@@ -413,12 +413,20 @@ entries</p>
 <h2>Exercise 2</h2>
 <pre class="r"><code>## Uncomment and complete the following code
 
-#staff_long &lt;- ___ %&gt;%
-#  ___(
-#    cols = ____, 
-#    names_to = &quot;_____&quot;,
-#    values_to = &quot;percent&quot;
-#    )</code></pre>
+staff_long &lt;- read_csv(&quot;data/instructional-staff.csv&quot;) %&gt;%
+  pivot_longer(
+    cols = 5, 
+    names_to = &quot;Year&quot;,
+    values_to = &quot;percent&quot;
+    )</code></pre>
+<pre><code>## Rows: 5 Columns: 12
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr  (1): faculty_type
+## dbl (11): 1975, 1989, 1993, 1995, 1999, 2001, 2003, 2005, 2007, 2009, 2011
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
 </div>
 <div id="exercise-3" class="section level2">
 <h2>Exercise 3</h2>
