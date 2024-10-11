@@ -56,7 +56,7 @@ There are no clear measurements on the axis - what does "Rule of Law" mean
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+the image is difficult to read, some countries are grouped together. X-axis does not follow a scale 
 
 
 
