@@ -36,8 +36,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 
 _Write your comments about image 2 below_
 
-
-
+Image 2 data is unlabeled and each country have different sizes.
 
 ## Image 3
 
